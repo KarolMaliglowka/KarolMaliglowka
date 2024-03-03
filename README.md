@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I started on 8-bit Atari writing in basic...
+I started on 8-bit Atari writing in basic ...
+
+
 now backend in dotnet frontend angular
 
 what do I want to learn? python, micropython, machine learning ...
