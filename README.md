@@ -2,10 +2,9 @@
 
 I started on 8-bit Atari writing in basic ...
 
+now, backend: dotnet, frontend: Angular, Typescript, 
 
-now backend in dotnet frontend angular
-
-what do I want to learn? python, micropython, machine learning ...
+What do I want to learn? Python, MicroPython (Raspberry Pi Pico), Machine Learning ... focus on work, ability to plan projects and tasks
 
 
 <!--
