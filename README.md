@@ -9,7 +9,7 @@ What do I want to learn? Python, MicroPython (Raspberry Pi Pico), Machine Learni
 ... concentration, focus on work, ability to plan projects and tasks
 
 - 🔭 I’m currently working on SimpleCrud
-- 🌱 I’m currently learning REACT (NEXT.js)
+- 🌱 I’m currently learning REACT (NEXT.js, PrimeReact), Python (FastAPI, SQLAlchemy)
 <!--
 **KarolMaliglowka/KarolMaliglowka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
