@@ -2,14 +2,14 @@
 
 I started on 8-bit Atari writing in basic ...
 
-Now I learn and practice, backend: <ins>dotnet</ins>, frontend: <ins>Angular</ins>, <ins>Typescript</ins>, 
+Now I learn and practice, backend: <ins>dotnet</ins>, frontend: <ins>Angular</ins>, <ins>REACT</ins>, <ins>Typescript</ins>, 
 
 What do I want to learn? Python, MicroPython (Raspberry Pi Pico), Machine Learning ... 
 
 ... concentration, focus on work, ability to plan projects and tasks
 
 - 🔭 I’m currently working on SimpleCrud
-- 🌱 I’m currently learning REACT (NEXT.js, PrimeReact), Python (FastAPI, SQLAlchemy)
+- 🌱 I’m currently learning <ins>REACT</ins> (NEXT.js, PrimeReact), <ins>Python</ins> (FastAPI, SQLAlchemy)
 <!--
 **KarolMaliglowka/KarolMaliglowka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
